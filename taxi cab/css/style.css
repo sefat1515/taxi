@@ -1,0 +1,97 @@
+/*common css start*/
+body{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #616368;
+	
+}
+.common{
+	padding: 100px 0;
+}
+h1{
+	font-weight: 700;
+	color: black;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*common css end*/
+
+/*header start*/
+.logo h2{
+	margin-bottom: 0 !important;
+}
+.logo:hover{
+	color: #f7b926 !important;
+}
+header li a:hover{
+	background: #f7b926;
+	border-radius: 20px;
+}
+/*header ed*/
+
+/*banner start*/
+.first{
+	width: 100%;
+	height: 500px;
+	background: #f7b926;
+}
+.second{
+	width: 100%;
+	height: 500px;
+	background: black;
+	color:  white;
+}
+.third{
+	width: 100%;
+	height: 500px;
+	background: #f7b926;
+}
+.icon{
+	color: black; border-radius: 100%; background: white; padding: 5px;
+}
+/*banner end*/
+/*choose start*/
+.btn{
+	border-color: #f7b926 !important;
+}
+.btn:hover{
+	background-color: #f7b926 !important;
+}
+/*choose end*/
+/*foem srart*/
+.form{
+	background: black;
+	color:  #f7b926;
+}
+.form-img{
+	background: black;
+}
+/*form end*/
+/*app start*/
+.app-icon{
+	background: #f7b926;
+	border-radius: 10px;
+}
+/*app end*/
+
+/*footer cs srart*/
+footer{
+	background-color: black;
+	padding-bottom: 100px;
+	color: white;
+}
+footer p{
+	margin-bottom: 0;
+}
+footer a{
+	text-decoration: none;
+	color: white;
+}
+footer a:hover{
+	color: #fbdb00;
+}
